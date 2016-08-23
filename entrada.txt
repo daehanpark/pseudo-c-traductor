@@ -1,0 +1,99 @@
+entero a;
+entero b;
+entero c;
+entero i;
+entero n;
+entero rt;
+caracter _ch;
+real d;
+
+leer(a);
+leer(b);
+leer(d);
+
+escribir(a);
+escribir(d);
+escribir(_ch);
+escribir("hola mundo\n");
+escribir("EL valor de a es: ");
+escribir(a);
+
+a=(-5);
+a=-5;
+a=(b*-2);
+
+d = 3.5*3;
+a = (3 + 5);
+a = (3 + 5)*4;
+a = (3 + 5)*(4);
+a = (3 + 5)*(4 + 4);
+a = (3 + 5)*(4 + 4)*6;
+a = (3 + 5)*(4 + 4)*c;
+a = (3+5)*(4-4)*(c/d);
+
+a = c = b + 3 + 5 + rt;
+
+si(i = 0)
+{
+
+
+	a + 3;
+}
+sino{ 
+
+
+	a = 3;
+
+
+}si (i == 0)
+
+{
+	a +3;
+	n = c;
+	i = i = 1;
+}
+
+
+sino
+
+{
+	a + 3;
+}
+
+para(i = 0; i < 10; i= i + 1 )
+{
+	i = i + 1;
+}
+	
+para(i = 0; i < 10; i= i + 1 ){
+	a + 3;
+	n = c;
+}
+
+mientras(a == 4){
+	a = 4+c;
+}
+
+mientras(a == 3)
+{
+	entero z
+	a + 3;
+	n = c;
+	i = i + 1;
+
+}
+
+hacer{
+	a + 3;
+	n = c;
+	i = i + 1;
+
+}mientras(i == 2);
+
+hacer
+
+{
+	a = 4+c; 
+}
+
+mientras(i == 2);
